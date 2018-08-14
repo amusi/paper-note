@@ -1,7 +1,7 @@
 # paper-note
 记录精读的paper日记
 
-[目标检测（Object Detection）](Object Detection)
+[目标检测(Object Detection)](Object Detection)
 
 TODO:
 
