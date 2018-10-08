@@ -3,10 +3,10 @@
 
 [目标检测(Object Detection)](Object-Detection)
 
+[图像分割(Image Segmentation)](Image-Segmentation)
+
 TODO:
 
 - [ ] CNN
-- [ ] Semantic Segmentation
-- [ ] Instance Segmentation
 - [ ] Image Stitching
 
