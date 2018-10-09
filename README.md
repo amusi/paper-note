@@ -5,8 +5,10 @@
 
 [图像分割(Image Segmentation)](Image-Segmentation)
 
+[图像拼接(Image Stitching)](Image-Stitching)
+
 TODO:
 
 - [ ] CNN
-- [ ] Image Stitching
+
 
